@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400343642389",
+    "firebase_url": "https://gastos-2f345.firebaseio.com",
+    "project_id": "gastos-2f345",
+    "storage_bucket": "gastos-2f345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400343642389:android:7e6e0351ba8fef3566391c",
+        "android_client_info": {
+          "package_name": "com.example.nuevoproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400343642389-qphal8f45otb9ia55kqb2q5mo9bq597n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRw1NYBObY5r8qt6IWpAlwcNkSPNpJH0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400343642389-qphal8f45otb9ia55kqb2q5mo9bq597n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
